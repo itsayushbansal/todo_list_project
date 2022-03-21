@@ -30,5 +30,5 @@ $ docker build . -t django-todo-list-v0.0
 ### **Run Application**
 >Run Docker Image 
 ```
-$ docker run -it -p 8000:8000 docker-django-v0.0
+$ docker run -it -p 8000:8000 django-todo-list-v0.0
 ```
